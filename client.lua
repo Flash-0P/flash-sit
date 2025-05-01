@@ -1658,3 +1658,4 @@ CanSit = function(veh)
     end
     return true
 end
+-- some changes and small bug fixed
