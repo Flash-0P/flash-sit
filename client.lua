@@ -29,6 +29,7 @@ local sittingScenarios = {
 }
 
 -- Functions --
+-- flash
 local function DisplayNativeNotification(msg)
 	BeginTextCommandThefeedPost("STRING")
 	AddTextComponentSubstringPlayerName(msg)
